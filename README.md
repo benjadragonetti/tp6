@@ -90,7 +90,7 @@ int main()
            break;
            
             case 2:
-           printf("Elegiste el area y perimetro del rectangulo\n");
+           printf("Elegiste el area y perimetro del circulo\n");
            
            printf("Introduce el radio del circulo:");
            scanf("%d" ,&rad);
